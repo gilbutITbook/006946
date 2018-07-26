@@ -5,5 +5,6 @@
 • 길벗출판사 웹 사이트: http://www.gilbut.co.kr/<br/> 
 • 길벗출판사 깃허브: https://github.com/gilbutITbook/006946<br/> 
 • 저자 깃허브: https://github.com/velopert/learning-react<br/> 
-
+---
+![소개 ](http://image.aladin.co.kr/img/img_content/K462533335_01.jpg)
 
